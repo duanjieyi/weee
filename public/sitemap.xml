@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2018-10-01T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/experiment-economic/</loc>
+    <lastmod>2018-10-01T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-10-01T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/indieweb/</loc>
+    <lastmod>2018-10-01T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/introducing-indigo/</loc>
+    <lastmod>2018-10-01T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-10-01T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-10-01T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/typography/</loc>
+    <lastmod>2018-10-01T09:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/making-home-page/</loc>
+  </url>
+  
+  <url>
+    <loc>/teaching/</loc>
+  </url>
+  
+</urlset>
